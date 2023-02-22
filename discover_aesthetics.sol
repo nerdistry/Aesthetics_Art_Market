@@ -13,7 +13,7 @@ interface IERC20Token {
 }
 
 
-contract Cameo{
+contract  discover_aesthetics{
 
     //track the number of arts stored
     uint internal listedArtLength;
